@@ -7,4 +7,6 @@ Image and ![file](https://github.com/wisdomwhale/linux-dotfiles/blob/master/rofi
 
 
 ### xfce Panel Settings
-![alt text]
+![alt text](https://github.com/wisdomwhale/linux-dotfiles/blob/master/xfcePanel.png)
+- Display : row size 35
+- Appearance:  Background solid color = #28538E; Alpha = 80
