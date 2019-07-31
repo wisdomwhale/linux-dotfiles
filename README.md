@@ -1,6 +1,6 @@
 # linux-dotfiles
 
-# Rofi
+## Rofi
 Image and file:
 
-https://github.com/wisdomwhale/linux-dotfiles/blob/master/rofi.png 
+![alt text](https://github.com/wisdomwhale/linux-dotfiles/blob/master/rofi.png) 
