@@ -1,3 +1,5 @@
+### Location for saving - Home/.config/rofi/config.rasi ###
+
 configuration {
     display-drun:                   "Apps";
     display-window:                 "Window";
