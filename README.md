@@ -7,3 +7,4 @@ Image and ![file](https://github.com/wisdomwhale/linux-dotfiles/blob/master/rofi
 
 
 ### xfce Panel Settings
+![alt text]
