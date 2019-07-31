@@ -1,4 +1,6 @@
 # linux-dotfiles
 
 # Rofi
-Look:
+Image and file:
+
+https://github.com/wisdomwhale/linux-dotfiles/blob/master/rofi.png 
